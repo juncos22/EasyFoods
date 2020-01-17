@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasyFoods</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">@string/app_name</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="aplicacion">Opciones</string>
+    <string name="salir">Salir de la aplicacion</string>
+
+
+    <string name="nueva_receta">Nueva Receta</string>
+    <string name="imgscroll">imgScroll</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recetas_agregadas">Recetas Agregadas</string>
+    <string name="detalles">Detalles..</string>
+    <string name="selecciona">Selecciona una foto</string>
+    <string name="guardar">Guardar Receta</string>
+    <string name="descripcion">Descripcion de la receta</string>
+    <string name="detalles_receta">Detalles de la Receta</string>
+    <string name="eliminar_receta">Eliminar Receta</string>
+    <string name="modificar_receta">Modificar Receta</string>
+    <string name="pasos">Pasos de la receta</string>
+    <string name="nombre">Nombre de la receta</string>
+    <string name="actualizar">Actualizar Receta</string>
+
+</resources>

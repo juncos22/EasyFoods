@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="@string/menu_principal"
+            android:icon="@drawable/ic_home"/>
+
+        <item android:id="@+id/nav_form"
+            android:title="@string/nueva_receta"
+            android:icon="@drawable/ic_save_food"/>
+
+        <item android:id="@+id/nav_foods"
+            android:title="@string/recetas_agregadas"
+            android:icon="@drawable/ic_food_list"/>
+    </group>
+
+    <item android:title="@string/aplicacion">
+        <menu>
+            <item android:id="@+id/nav_salir"
+                android:title="@string/salir"
+                android:icon="@drawable/ic_off"
+                android:onClick="salir"/>
+        </menu>
+    </item>
+
+</menu>
